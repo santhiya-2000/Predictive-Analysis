@@ -1,0 +1,4 @@
+model,roc_auc,precision,recall
+Logistic Regression - Baseline,0.5733287506444377,0,0
+Logistic Regression - Weighted,0.5747035573122505,0.09052333804809053,0.5818181818181818
+Random Forest - Weighted,0.5695709457524192,0.08870967741935484,0.4
